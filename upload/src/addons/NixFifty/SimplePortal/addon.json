@@ -1,5 +1,14 @@
 {
+    "legacy_addon_id": "SimplePortal",
     "title": "NixFifty: Simple Portal",
+    "description": "A simple portal add-on for XenForo.",
     "version_string": "1.0.0 Alpha",
-    "version_id": 10000010
+    "version_id": 10000010,
+    "dev": "NixFifty",
+    "dev_url": "https://nixfifty.com",
+    "support_url": "https://xenforo.com/community/resources/extra-portal.2321/",
+    "extra_urls": {
+        "GitHub": "https://github.com/NixFifty/XenForo2-SimplePortal"
+    },
+    "icon": "fa-newspaper-o"
 }
